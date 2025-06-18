@@ -20,7 +20,11 @@
 
 **Real-time chat application** (Solo project)
 
-Building it with React, Tailwind CSS, Node, Express, MongoDB, and Socket.io.
+- Built backend (TDD) with Node.js, Express, MongoDB
+- Built frontend with React, Tailwind CSS
+- Used Socket.IO for real-time updates
+- TODO: Improve UX and user interface, especially for mobile viewers
+- TODO: Build necessary features that belong to an average chat application
 
 
 

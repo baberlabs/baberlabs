@@ -4,9 +4,9 @@
 
 ## Skills
 
--   **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
--   **Backend:** Node.js, Express.js, RESTful APIs, jsonwebtoken, socket.io
--   **Databases:** PostgreSQL, MongoDB
+-   **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS, Zustand
+-   **Backend:** Node.js, Express.js, Axios, RESTful APIs, JSON Web Token, Socket.IO
+-   **Databases:** PostgreSQL (node-postgres), MongoDB (mongoose)
 -   **Version Control:** Git, GitHub
 -   **Deployment:** GitHub Actions, Render, Netlify, Supabase
 -   **Testing:** Jest, Supertest
@@ -42,47 +42,58 @@
 
 ## Currently Working On:
 
-### [Chatr](https://github.com/baberlabs/chat-app)
+### [Chatr](https://github.com/baberlabs/chatr)
 
-**Real-time chat application** (Solo project)
+**Real-time chat application** (Self-directed Individual Project)
 
 - Built backend (TDD) with Node.js, Express, MongoDB
-- Built frontend with React, Tailwind CSS
+- Built frontend with React, Tailwind CSS, Zustand
 - Used Socket.IO for real-time updates
+
+[Live App](https://chatr.baberr.com) | [GitHub (monorepo)](https://github.com/baberlabs/chatr)
 
 
 ## What I've built:
 
-### [Baberr](https://baberr.com)
+### [Baberr](https://github.com/baberlabs/portfolio)
 
-**Personal portfolio website** (Solo Project)
+**Personal portfolio website** (Self-directed Individual Project)
 
 Built with React and Tailwind CSS, it features dynamic theme toggling and a responsive design, and showcases my projects, skills, and contact information.
 
+[Live App](https://baberr.com) | [GitHub (frontend)](https://github.com/baberlabs/portfolio)
+
 ### [Northchess](https://github.com/henryloach/nc_abcs_boardgame_frontend)
 
-**Multiplayer chess game** (Team Project)
+**Multiplayer chess game** (Team Project as part of [Digital Skills Bootcamp](https://www.northcoders.com/our-courses/software-development-bootcamp-in-javascript/))
 
 Built with Dart and Flutter, powered by WebSockets. Includes traditional chess and creative variants like edge wrap, horde and endgame.
 
+[Live App](https://northchess.netlify.app) | [GitHub (frontend)](https://github.com/henryloach/nc_abcs_boardgame_frontend) | [GitHub (backend)](https://github.com/baberlabs/nc_abcs_boardgame_backend)
+
 ### [Baber’s Reach](https://github.com/baberlabs/fe-nc-news)
 
-**Reddit-style news platform** (Solo Project)
+**Reddit-style news platform** (Individual Project as part of [Digital Skills Bootcamp](https://www.northcoders.com/our-courses/software-development-bootcamp-in-javascript/))
 
 A full-stack app with features like article sorting, voting, and commenting, built using React, Node.js, Express, and PostgreSQL.
 
+[Live App](https://babers-reach.netlify.app) | [GitHub (frontend)](https://github.com/baberlabs/fe-nc-news) | [GitHub (backend)](https://github.com/baberlabs/be-nc-news)
+
 ### [Weather App](https://github.com/baberlabs/weather-app)
 
-**Responsive weather app** (Pair Project)
+**Responsive weather app** (Pair Project as part of [Digital Skills Bootcamp](https://www.northcoders.com/our-courses/software-development-bootcamp-in-javascript/))
 
 Location-based forecasts with a focus on accessibility and error handling, built with React.
 
+[Live App](https://weather-by-baberr.netlify.app/) | [GitHub (frontend)](https://github.com/baberlabs/weather-app)
+
 ### [Hangman Game](https://github.com/baberlabs/hangman-game)
 
-**Interactive Hangman game** (Pair Project)
+**Interactive Hangman game** (Pair Project as part of [Digital Skills Bootcamp](https://www.northcoders.com/our-courses/software-development-bootcamp-in-javascript/))
 
 A React-based guessing game with score tracking and real-time updates.
 
+[Live App](https://hangman-by-baberr.netlify.app/) | [GitHub (frontend)](https://github.com/baberlabs/hangman-game)
 
 
 ## More about me:

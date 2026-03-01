@@ -3,7 +3,7 @@
 [Portfolio](https://baberr.com) | [LinkedIn](https://www.linkedin.com/in/baberr)
 
 Computer Science student at Birmingham City University.  
-Contributor to the web platforms of [BCU Cybersoc](https://bcucybersoc.com) and [Unihack](https://unihack.co.uk).  
+Web Platform Engineer for [BCU Cybersoc](https://bcucybersoc.com), [Unihack](https://unihack.co.uk) and [InnovationLabs]().  
 Graduate of the Northcoders Software Development Bootcamp.
 
 This GitHub profile serves as a curated archive of coursework and self-directed software projects. The repositories emphasise explicit structure, predictable behaviour, and clearly articulated design decisions, with an emphasis on correctness and maintainability over feature breadth.

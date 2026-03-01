@@ -19,12 +19,4 @@ This GitHub profile serves as a curated archive of coursework and self-directed 
 - **Desktop applications:** PySide6 (Qt for Python)  
 - **Mobile applications:** Flutter
 
-## Current work
-
-- **Unihack website platform**  
-  Development and maintenance of a React- and Tailwind-based web application supporting student-led hackathon activity.
-
-- **Hospital Management System**  
-  Desktop application implemented using PySide6, developed as part of the CMP4266 Computer Programming module, with an object-oriented domain model.
-
 The repository list documents both completed and ongoing work.

@@ -13,7 +13,7 @@ This GitHub profile serves as a curated archive of coursework and self-directed 
 - **Languages:** JavaScript, Python, Dart  
 - **Frontend:** React, HTML, CSS, Tailwind CSS, Zustand, Socket.IO (client)  
 - **Backend:** Node.js, Express, REST APIs, Axios, Socket.IO  
-- **Databases:** PostgreSQL, MongoDB  
+- **Databases:** PostgreSQL, SQLite, MongoDB  
 - **Testing:** Jest, SuperTest  
 - **Deployment:** Netlify, Render, Supabase, Hetzner VPS  
 - **Desktop applications:** PySide6 (Qt for Python)  
